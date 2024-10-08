@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou Gustavo Kist Mohr</h1>
 <h3 align="center">Estudante de programação, Brasil (RS)</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustav0km&label=Profile%20views&color=0e75b6&style=flat" alt="gustav0km" /> </p>
+
 - 🌱 Atualmente estou aprendendo **Desenvolvimento Web - HTML, CSS, JavaScript e outros.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Gustav0KM](https://github.com/Gustav0KM)
