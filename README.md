@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Eu sou Gustavo</h1>
 <h3 align="center">Estudante de programação, Brasil (RS)</h3>
 
-- 🌱 Atualmente estou aprendendo **Desenvolvimento Web - HTML, CSS, JavaScript e outros.**
+- 🌱 Atualmente estou adquirindo conhecimento em **Desenvolvimento Web - HTML, CSS, JavaScript e outros.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Gustav0KM](https://github.com/Gustav0KM)
 
