@@ -1,5 +1,5 @@
-<h1 align="center">Olá, Eu sou Gustavo</h1>
-<h3 align="center">Estudante de programação, Brasil (RS)</h3>
+<h1 align="center">Olá 👋, Eu sou Gustavo</h1>
+<h3 align="center">Estudante de Ciência da Computação - UNISC, Brasil (RS)</h3>
 
 - 🌱 Atualmente estou adquirindo conhecimento em **Desenvolvimento Web - HTML, CSS, JavaScript e outros.**
 
