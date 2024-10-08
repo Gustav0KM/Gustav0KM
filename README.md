@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Desenvolvimento Web - HTML, CSS, JavaScript e outros.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Gustav0KM](https://github.com/Gustav0KM)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Gustav0KM](https://github.com/Gustav0KM?tab=repositories)
 
 - 📫 Como entrar em contato comigo **gustavokistmohr@gmail.com**
 
